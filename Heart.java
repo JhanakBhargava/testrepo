@@ -26,6 +26,7 @@ public class Heart {
 
     public void pump()
     {
+	System.out.println("Inside Inside");
         System.out.println("Pumping");
         System.out.println("Alive");
     }
